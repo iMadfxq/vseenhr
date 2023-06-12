@@ -55,7 +55,7 @@ export default function Home() {
         <link
           rel="preconnect"
           href="https://fonts.gstatic.com"
-          crossorigin=""
+          crossOrigin=""
         ></link>
       </Head>
       <header className={styles.header}>

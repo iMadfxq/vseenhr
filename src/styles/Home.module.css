@@ -55,7 +55,7 @@
   justify-content: center;
   align-items: center;
   gap: 16px;
-  padding: 48px 115px;
+  padding: 48px 15%;
   text-align: center;
 }
 .services div {
@@ -86,7 +86,7 @@
   align-items: center;
   gap: 16px;
   background-color: var(--secondary-bg);
-  padding: 48px 115px;
+  padding: 48px 15%;
 }
 
 .socialProof div {
@@ -102,7 +102,7 @@
   justify-content: center;
   align-items: center;
   gap: 32px;
-  padding: 56px 115px;
+  padding: 56px 15%;
 }
 
 .products a {
@@ -124,6 +124,7 @@
   gap: 8px;
   flex-direction: column;
   align-items: center;
+  flex-basis: 20%;
 }
 
 .caseStudy {
@@ -161,7 +162,7 @@
   justify-content: center;
   align-items: center;
   gap: 16px;
-  padding: 48px 115px;
+  padding: 48px 15%;
 }
 
 .active {
@@ -216,7 +217,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 56px 115px;
+  padding: 56px 15%;
   background-color: var(--secondary-bg);
 }
 .process ul {
@@ -284,7 +285,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 48px 115px;
+  padding: 48px 15%;
   gap: 16px;
 }
 
@@ -304,13 +305,14 @@
   flex-direction: column;
   align-items: center;
   text-align: center;
+  flex-basis: 25%;
 }
 
 .contact {
   display: flex;
   align-items: flex-start;
   justify-content: space-between;
-  padding: 48px 115px;
+  padding: 48px 15%;
   background-color: var(--secondary-bg);
 
 }
